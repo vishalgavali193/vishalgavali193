@@ -25,7 +25,4 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/vishal-gavali-926a2127b/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/thevishal_013" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/@vishalgavali476" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalgavali193&show_icons=true&locale=en" alt="vishalgavali193" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgavali193&" alt="vishalgavali193" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalgavali193&show_icons=true&locale=en&layout=compact" alt="vishalgavali193" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalgavali193" alt="vishalgavali193" /></a></p>
+
